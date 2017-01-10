@@ -21,7 +21,6 @@ public class DoLogin extends HttpServlet {
 	 */
 	public DoLogin() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	/**
